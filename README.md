@@ -1,6 +1,7 @@
 # Web de Inicio de Sesión
 
-![Vista previa](1.PNG)
+![Captura](https://github.com/user-attachments/assets/3e4aa861-fed4-45c2-8138-f95e2b32929d)
+
 
 ## Descripción
 Este es un proyecto de una interfaz de inicio de sesión moderna y atractiva. La página está diseñada para permitir a los usuarios iniciar sesión con sus credenciales o registrarse si aún no tienen una cuenta. Incluye la opción de autenticación mediante redes sociales.
