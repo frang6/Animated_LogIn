@@ -1,8 +1,5 @@
 # Web de Inicio de Sesión
 
-![Captura](https://github.com/user-attachments/assets/3e4aa861-fed4-45c2-8138-f95e2b32929d)
-
-
 ## Descripción
 Este es un proyecto de una interfaz de inicio de sesión moderna y atractiva. La página está diseñada para permitir a los usuarios iniciar sesión con sus credenciales o registrarse si aún no tienen una cuenta. Incluye la opción de autenticación mediante redes sociales.
 
@@ -17,7 +14,6 @@ Este es un proyecto de una interfaz de inicio de sesión moderna y atractiva. La
 - **HTML5**
 - **CSS3**
 - **JavaScript**
-- **Frameworks o Librerías** (si se usaron, por ejemplo, Bootstrap, Tailwind CSS, React, etc.)
 
 ## Instalación
 1. Clona este repositorio en tu máquina local:
@@ -42,11 +38,4 @@ Si deseas contribuir a este proyecto, puedes hacer lo siguiente:
    git push origin mi-nueva-funcionalidad
    ```
 5. Crea un pull request y espera la revisión.
-
-## Licencia
-Este proyecto está bajo la licencia [MIT](LICENSE).
-
----
-
-Siéntete libre de personalizar el README según tus necesidades o agregar más detalles. ¡Éxito con tu proyecto!
 
